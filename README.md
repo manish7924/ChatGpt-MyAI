@@ -25,7 +25,7 @@ Welcome to the ChatGPT MyAI, an AI chatbot Android app built using OpenAI's GPT-
 
 ## Installation
 1. **Download the APK:**
-   - Visit the [releases page](#) to download the latest APK file.
+   - Visit the [releases page](https://github.com/manish7924/ChatGpt-MyAI/releases) to download the latest APK file.
 2. **Install the APK:**
    - Enable installation from unknown sources in your device settings.
    - Open the downloaded APK file and follow the on-screen instructions to install the app.
