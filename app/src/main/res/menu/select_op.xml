@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/a_new_chat"
+        android:title="@string/action_new_asset"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/new_chat" />
+
+    <item
+        android:id="@+id/ac_about"
+        android:title="@string/action_about"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/exit_btn"
+        android:title="@string/exit"
+        app:showAsAction="collapseActionView" />
+
+</menu>

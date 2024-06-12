@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#DFE2FF</color>
+    <color name="btn">#000000</color>
+    <color name="white">#FF071A29</color>
+    <color name="chat_200">#FF24242A</color>
+    <color name="teal_200">#071A29</color>
+    <color name="teal_green">#128C7E</color>
+    <color name="background_color">#000000</color>
+    <color name="about_color">#000000</color>
+    <color name="toolbar">#071A29</color>
+    <color name="mic">#0DC1C8</color>
+    <color name="send">#0DC1C8</color>
+    <color name="chat_title">#E0E2FF</color>
+    <color name="chat_input">#071A29</color>
+    <color name="color_hint">#D0D5FF</color>
+    <color name="btn_input">#C7CBF8</color>
+
+</resources>

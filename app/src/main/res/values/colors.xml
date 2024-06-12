@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_700">#00FFFD</color>
+    <color name="gray">#FFFFFFFF</color>
+    <color name="bd_green">#075E54</color>
+    <color name="ufo_green">#8EFFB8</color>
+    <color name="tg">#DCF8C6</color>
+    <color name="pb">#34B7F1</color>
+    <color name="wc">#ECE5DD</color>
+    <color name="p_pure">#EFF0FF</color>
+    <color name="input_blue">#FF2757FF</color>
+
+
+    <color name="black">#000000</color>
+    <color name="btn">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#E9FFFF</color>
+    <color name="teal_green">#128C7E</color>
+    <color name="chat_200">#FFFFFF</color>
+    <color name="chat_title">#000000</color>
+    <color name="background_color">#FFFFFBFE</color>
+    <color name="about_color">#FFFFFBFE</color>
+    <color name="toolbar">#06E8E6</color>
+    <color name="mic">#06E8E6</color>
+    <color name="send">#04FAFA</color>
+    <color name="color_hint">#17CAC8</color>
+    <color name="chat_input">#EDEEFF</color>
+    <color name="btn_input">#EDEEFF</color>
+
+
+</resources>

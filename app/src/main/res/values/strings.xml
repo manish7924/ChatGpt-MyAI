@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ChatGPT MyAI</string>
+    <string name="about_name">ChatGPT MyAI</string>
+    <string name="app_title">⚛️ ChatGPT</string>
+    <string name="app_interface">ChatGPT - MyAI\nChatBot 🤖</string>
+    <string name="hint">Type your Message</string>
+    <string name="back">Back to Home ↩️</string>
+    <string name="action_newchat">New Chat ➕</string>
+    <string name="action_darkmode">Dark Mode</string>
+    <string name="action_example">Chat Examples 📃</string>
+    <string name="action_about">About 📄</string>
+    <string name="action_new_asset">New Chat</string>
+    <string name="theme">Theme 🌙 </string>
+    <string name="about">About</string>
+    <string name="exit">Exit ↩️</string>
+    <string name="dev_name">Made with ❤️ by Manish</string>
+    <string name="app_ver">v1.0.1</string>
+    <string name="voice_mic">Speak</string>
+    <string name="send">Send</string>
+    <string name="app_des">This is an open_source project and can \nbe found on</string>
+    <string name="app_des2">If you liked my work \nshow some ❤️ and 🌟 the repo</string>
+    <string name="whats_new">\n<b>🚀 Key Features:</b>\n
+
+\n➡️ State-of-the-Art Conversational AI.
+\n\n➡️ Lightning-Fast Responses.
+\n\n➡️ Interactive Conversations.
+\n\n➡️ Personalized Interaction.
+\n\n➡️ Topic Variety.
+\n\n➡️ User-Friendly Interface.
+\n\n➡️ Privacy and Security.
+
+\n\n\n<b>🤖 How to Use:</b>\n
+
+\n👉 Simply open the ChatGPT: ChatGPT My AI app, and start a conversation with text-DaVinci 003 and Turbo 3.5 ChatGPT API at your fingertips.
+        \n\n   1. Ask questions, share your thoughts, or just have a friendly chat.
+        \n\n    2. ChatGPT will respond in a human-like manner, keeping the conversation engaging and enjoyable.
+        \n\n   3. Experience the next level of conversational AI with "ChatGPT My AI."
+        \n\nJoin us on this exciting journey as we redefine the way you interact with AI-powered chatbots. \n\nDownload the app now and discover the magic of text-davinci-003 and Turbo 3.5 ChatGPT My AI in the palm of your hand!
+        \n\nDeveloper: <b>Manish Chidar</b> \n\n</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="response">Response</string>
+    <string name="ac_whats_new">What\'s New ✨</string>
+
+
+</resources>

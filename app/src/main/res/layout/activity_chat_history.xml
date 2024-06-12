@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/background_color"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/history_toolbar"
+        android:background="@color/toolbar"
+        android:elevation="4dp"
+        app:title="Example"
+        android:padding="2dp"
+        app:titleMarginStart="7dp"
+        app:titleTextColor="@color/chat_title" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chat_history_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/history_toolbar"
+        android:layout_centerHorizontal="true"
+        android:padding="0dp"
+        android:scrollbarSize="20dp"
+        android:scrollbarThumbVertical="@color/toolbar" />
+
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="43dp"
+        android:background="@drawable/edit_text_bg"
+        android:backgroundTint="@color/btn_input"
+        android:fontFamily="@font/ubuntu"
+        android:gravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:onClick="btnBack"
+        android:padding="10dp"
+        android:text="@string/back"
+        android:textAllCaps="false"
+        android:textColor="@color/btn"
+        android:textFontWeight="700"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</RelativeLayout>

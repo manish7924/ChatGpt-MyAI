@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- New menu item -->
+    <item
+        android:id="@+id/ac_new_chat"
+        android:title="@string/action_new_asset"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/new_chat" />
+
+    <!-- Existing menu items (if any) -->
+    <item
+        android:id="@+id/new_chat"
+        android:title="@string/action_newchat"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/ac_history"
+        android:title="@string/action_example"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/ac_theme"
+        android:title="@string/theme"
+        app:showAsAction="collapseActionView" />
+
+
+    <item
+        android:id="@+id/ac_about"
+        android:title="@string/action_about"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/ac_whats_new"
+        android:title="@string/ac_whats_new"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/exit_btn"
+        android:title="@string/exit"
+        app:showAsAction="collapseActionView" />
+
+</menu>

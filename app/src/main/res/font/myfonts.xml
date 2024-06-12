@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <font
+        android:font="@font/ubuntu"
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/ub_light"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/poppins_rg"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        tools:targetApi="o" />
+
+    <font
+        android:font="@font/popins_light"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        tools:targetApi="o" />
+</font-family>
