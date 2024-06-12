@@ -63,6 +63,6 @@ We welcome contributions to improve the ChatGPT Clone app. Here's how you can co
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
-- [OpenAI](https://www.openai.com/) for providing the GPT-4 model.
+- [OpenAI](https://www.openai.com/) for providing the GPT-3 model.
 - All contributors and users who have supported and improved this project.
 
