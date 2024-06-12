@@ -12,14 +12,15 @@ Welcome to the ChatGPT MyAI, an AI chatbot Android app built using OpenAI's GPT-
 8. [Acknowledgements](#acknowledgements)
 
 ## Features
-- Conversational AI powered by GPT-4.
+- Conversational AI powered by GPT-3.
 - User-friendly interface for seamless interaction.
 - Customizable settings to tailor the chatbot's responses.
 - Offline support for certain functionalities.
+- TextToSpeech (TTS) and SpeechToText (STT) support.
 - Secure and privacy-focused.
 
 ## Requirements
-- Android device running version 5.0 (Lollipop) or higher.
+- Android device running version 7.0 (Naught) or higher.
 - Internet connection for initial setup and API communication.
 
 ## Installation
@@ -65,6 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenAI](https://www.openai.com/) for providing the GPT-4 model.
 - All contributors and users who have supported and improved this project.
 
-For further assistance, please contact our support team at support@chatgptclone.com.
-
-Happy chatting!
