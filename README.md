@@ -1,6 +1,15 @@
 # ChatGPT MyAI Chatbot
 Welcome to the ChatGPT MyAI, an AI chatbot Android app built using OpenAI's GPT-3 model. This app is designed to provide users with a conversational AI experience that can assist with various inquiries and tasks. Below, you'll find instructions on how to set up, configure, and use the app.
 
+
+![image](https://raw.githubusercontent.com/manish7924/ChatGpt-MyAI/main/ResizedImage_2024-06-12_18-53-22_1653.png)
+
+
+![image](https://raw.githubusercontent.com/manish7924/ChatGpt-MyAI/main/ResizedImage_2024-06-12_18-56-59_2232.png)
+
+
+![image](https://raw.githubusercontent.com/manish7924/ChatGpt-MyAI/main/ResizedImage_2024-06-12_18-51-58_1926.png)
+
 ## Table of Contents
 1. [Features](#features)
 2. [Requirements](#requirements)
